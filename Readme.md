@@ -7,8 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* Не все форматы карт принимает
-* [bug](https://github.com/Stjushenka/Credit-Card-Number-Validator/issues/1)
+* [Не все форматы карт принимает](https://github.com/Stjushenka/Credit-Card-Number-Validator/issues/1)
 
 
 ## Описание процесса тестирования
